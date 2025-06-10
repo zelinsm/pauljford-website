@@ -1,0 +1,10 @@
+/* css styles */
+.circle-photo {
+  width: 150px; /* Adjust size as needed */
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto; /* Center the photo */
+}
+/* css styles */

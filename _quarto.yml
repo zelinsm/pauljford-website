@@ -5,7 +5,7 @@ website:
   title: "Paul J. Ford"
   description: ""
   image: images/headshot_pjf_ccf.jpg
-  favicon: images/favicon.png
+  favicon: 
   
   navbar:
     pinned: true
@@ -40,5 +40,6 @@ format:
     css: styles.css
     toc: true
 
+output-dir: docs
 
 
