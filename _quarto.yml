@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Paul J. Ford"
@@ -39,6 +40,6 @@ format:
     css: styles.css
     toc: true
 
-output-dir: docs
+
 
 
