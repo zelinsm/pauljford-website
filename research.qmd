@@ -2,4 +2,77 @@
 title: "Research Interests"
 ---
 
+**Paul J. Ford, PhD** conducts research at the intersection of ethics, neuroscience, and clinical practice. His work explores how ethical theory, empirical methods, and patient perspectives can inform better treatment, research design, and policy in neurological care.
 
+He is particularly focused on the practical, day-to-day ethical challenges that arise in neurosurgery and neurological research, and he leads efforts to embed ethical reflection directly into clinical and research workflows at Cleveland Clinic.
+
+------------------------------------------------------------------------
+
+## Core Areas of Research
+
+### Clinical Neuroethics
+
+Dr. Ford has contributed to over **2,500 ethics consultations**, offering insight into real-time ethical dilemmas faced by patients, families, clinicians, and researchers. His clinical ethics work is grounded in direct experience and supports both inpatient and outpatient neurology and neurosurgery cases.
+
+### Research Ethics in Neuroscience
+
+He leads the **Neuroethics Program** and oversees the **ethics core** for neuroscience studies at Cleveland Clinic. In this role, he supports investigators in: 
+
+- Developing ethical frameworks for study design 
+- Integrating participant perspectives 
+- Navigating consent, risk, and communication challenges 
+- Ensuring inclusion and equity in research practices
+
+### Device-based Interventions
+
+Dr. Ford’s research frequently addresses ethical complexities related to:
+
+-   **Deep Brain Stimulation (DBS)**
+-   **Responsive Neurostimulation (RNS)**
+-   **High-Intensity Focused Ultrasound (HIFU)**
+-   Emerging neuromodulation technologies
+
+He explores patient decision-making, identity, autonomy, and quality of life as they relate to these interventions, often using **qualitative methods** and case-based inquiry.
+
+------------------------------------------------------------------------
+
+## Methodological Focus
+
+-   **Qualitative research**, including interviews, case studies, and narrative analysis
+-   **Empirical bioethics**, bridging ethics theory with real-world data
+-   **Embedded ethics**, integrating ethics support directly into research teams and clinical programs
+
+------------------------------------------------------------------------
+
+## Community and Equity Engagement
+
+Dr. Ford's research also extends into **community-based ethics education** and **advocacy for equity in research participation**. He works with local neighborhoods in Cleveland to improve trust, inclusion, and ethical awareness around medical research and access to care.
+
+------------------------------------------------------------------------
+
+## Selected Speaking Engagements
+
+Dr. Ford has been invited to present his work to a range of audiences, including:
+
+- The **Presidential Commission for the Study of Bioethical Issues** 
+- The **Institute of Medicine’s Board on Health Sciences Policy** 
+- The **Neuroethics Network** at the Cambridge-ICM Brain and Spine Institute
+
+------------------------------------------------------------------------
+
+## Featured Public Talk
+
+[![](https://img.youtube.com/vi/FpJeXOeQLeo/0.jpg)](https://www.youtube.com/watch?v=FpJeXOeQLeo)
+
+**Watch:** Dr. Ford discusses practical neuroethics and clinical complexity in real-world ethics consultations
+
+[View on YouTube](https://www.youtube.com/watch?v=FpJeXOeQLeo)
+
+------------------------------------------------------------------------
+
+## Related Pages
+
+-   [Curriculum Vitae](cv.qmd)
+-   [Publications](publications.qmd)
+-   [Media](media.qmd)
+-   [About](about.qmd)

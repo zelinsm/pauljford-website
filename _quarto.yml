@@ -20,9 +20,11 @@ website:
       - href: cv.qmd
         text: Curriculum Vitae
       - href: publications.qmd
-        text: Recent Publications
+        text: Publications
       - href: media.qmd
-        text: Media
+        text: Media Engagement
+      - href: research-opportunities.qmd
+        text: Research Opportunities
 
     right:
       - icon: linkedin

@@ -1,50 +1,101 @@
 ---
-title: "Paul J. Ford"
+title: "Media Engagement"
+subtitle: "Selected Interviews, Quotes, and Public Talks"
+page-layout: article
 ---
 
-# Media Interviews, Podcasts, and Quotes (selected)
-
-1.	Quoted. 2024. “Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research. Neurology Today. Feb. 01, 2024. Last viewed 02/15/24: https://journals.lww.com/neurotodayonline/fulltext/2024/02010/did_a_computer_write_this___ethical_and_legal.8.aspx . 
-
-2.	Podcast Interview, Recorded 2023. “Informed Consent and Awake Neurosurgery.” The Brain Storm Podcast. Last viewed 12/13/23: Episodes | Mysite (thebrainstormpodcast.com) . 
-
-3.	Quoted. 2023. “As interest in AI gains momentum, experts weigh its role in health care’s future,” Crain’s Cleveland Business. Nov. 30, 2023. Last viewed 02/15/24. https://www.crainscleveland.com/health-care/experts-discuss-how-ai-can-improve-future-health-care 
-
-4.	Podcast Interview, Recorded 2023. “Neurology and Ethics: Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas.” Neurophilia, Last viewed 04/02/24: https://podcasts.apple.com/us/podcast/the-neurophilia-podcast/id1654775116?i=1000618356973 (link of video preview: https://www.youtube.com/watch?v=51ca7ljjYXQ )
-
-5.	Community Educational Video, Recorded 2023. “Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges,” Last viewed 03/08/23:  https://www.youtube.com/watch?v=eZAQ_ihCzvg 
-
-6.	Podcast interview, Recorded 2022. “Unconference Episode 1: The Planners,” Bioethics for the People, Recorded  Last viewed 08/18/22: https://www.bioethicsforthepeople.com/episodes/crossover-episode-with-affinity-group-leaders-bjk95-h3tdh 
-
-7.	Podcast Interview, Recorded 2021. “Patient Perceptions of FDA Approval”  
--	Neurology Podcast (American Academy of Neurology),: Last viewed 08/17/2021: https://directory.libsyn.com/episode/index/id/20156849  
--	Neurology Minute (American Academy of Neurology), short separate summary, Recorded 2021: Last viewed 08/17/2021: https://neurologyminute.libsyn.com/website/patient-perceptions-of-fda-approval 
-
-8.	Podcast Interview, Recorded 2020. “E16 Bioethics and Bioelectronic Medicines an Emerging Area of Intertwined Significance,” SKRAPS: Stories of scientific brilliance, Last viewed 10/21/2022: 
-https://skrapspodcast.com/podcasts/skraps/season-1/paul-ford-and-lauren-sankary/ 
-
-9.	Podcast Interview, Recorded 2020. “Episode 13- The Health Care Professional-Patient Relationship – Revisiting the Emanuels’ Four Models,” Conversations in Bioethics, Cleveland State University, Last viewed 12/15/20: 
-https://anchor.fm/bioethics	or    https://www.youtube.com/watch?v=BtmvFifScZM 
-
-10.	Podcast Interview, Recorded 2019. “Episode 1- Clinical Ethics Consultations: Interview with Dr. Paul Ford,” Conversations in Bioethics, Cleveland State University, Last viewed 12/15/20: 
-https://anchor.fm/bioethics	or    https://www.youtube.com/watch?v=SN4YE0xQAhM  
-
-11.	Quoted, “Precision medicine: 'We want to make sure people feel respected,' clinical ethicist says,” Healthcare IT News, May 14, 2018. (https://www.healthcareitnews.com/news/precision-medicine-we-want-make-sure-people-feel-respected-clinical-ethicist-says Last visited October, 2018)
-
-12.	Quoted, Opioid 'contracts' humiliate some patients with chronic pain, and may not make them safer.” Cleveland Plain Dealer, April 25, 2018. (https://www.cleveland.com/healthfit/index.ssf/2018/04/opioid_contracts_humiliate_som.html Last visited October, 2018)
-
-13.	Quoted (extensive), “Is Wisc. Teen’s Decision to Die a Turning Point?” USA Today. September 07, 2016.  (http://www.usatoday.com/story/news/2016/09/07/wisc-teens-decision-die-turning-point/89974124/   Last visited September 8, 2016)
-
-14.	Quoted/Cited, “Brain implant trials raise ethical concerns” Science. 12 June 2015: 1186-1187.
-
-15.	Quoted, “Improve ethics consults based on feedback and critique” Medical Ethics Advisor, Vol. 30, No. 2. February 2014.
-
-16.	Quoted (Newspaper), “Cleveland Doctors Are On The Leading Edge Of Treating Disorders With Deep Brain Stimulation,” Cleveland Plain Dealer, March 24, 2008.  
-
-17.	Quoted (short television clip), “Medical: Criminal Mind,” Evening News, WJLA (ABC affiliate), Washington, DC, reporter: Kathy Fowler, broadcast April 30, 2007.
-
-18.	Interview (extensive), “It’s My Story: Ethicist on Call,” BBC 4 radio, 28 minute program, broadcast July 20, 2006, (re-bdcast May 2, 2007). 
-
-19.	Research reported, “Epilepsy-Surgery Ethics Consultation Helpful for Neurologists, Neurosurgeons,” CNS News, print article reviewing my research results, March 2005.
+Dr. Paul J. Ford is frequently invited to share expert insights on ethical challenges in neuroscience, neurosurgery, and healthcare innovation. His work has been featured in national news outlets, science podcasts, ethics forums, and community education efforts.
 
 ------------------------------------------------------------------------
+
+## Featured Interviews & Appearances
+
+### **The Brain Storm Podcast**
+
+*“Informed Consent and Awake Neurosurgery”*\
+Recorded 2023\
+[Listen to the episode](https://thebrainstormpodcast.com)\
+*(Look for episode title on site)*
+
+------------------------------------------------------------------------
+
+### **Neurophilia Podcast**
+
+*“Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas”*\
+Recorded 2023\
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-neurophilia-podcast/id1654775116?i=1000618356973)\
+📺 [Watch preview on YouTube](https://www.youtube.com/watch?v=51ca7ljjYXQ)
+
+------------------------------------------------------------------------
+
+### **Neurology Today**
+
+*"Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research.”*\
+Published 2024\
+[Read article](https://journals.lww.com/neurotodayonline/fulltext/2024/02010/did_a_computer_write_this___ethical_and_legal.8.aspx)
+
+------------------------------------------------------------------------
+
+### **Community Video Education**
+
+*“Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges”*\
+Recorded 2023\
+📺 [Watch on YouTube](https://www.youtube.com/watch?v=eZAQ_ihCzvg)
+
+------------------------------------------------------------------------
+
+## Additional Media Features
+
+-   **AI and Ethics in Healthcare**\
+    *Crain’s Cleveland Business* (2023)\
+    [Read article](https://www.crainscleveland.com/health-care/experts-discuss-how-ai-can-improve-future-health-care)
+
+-   **Bioethics for the People: Unconference Episode 1** (2022)\
+    [Listen](https://www.bioethicsforthepeople.com/episodes/crossover-episode-with-affinity-group-leaders-bjk95-h3tdh)
+
+-   **Neurology Podcast (AAN)**\
+    *Patient Perceptions of FDA Approval* (2021)\
+    [Full episode](https://directory.libsyn.com/episode/index/id/20156849)\
+    [Neurology Minute summary](https://neurologyminute.libsyn.com/website/patient-perceptions-of-fda-approval)
+
+-   **SKRAPS Podcast: Bioethics and Bioelectronic Medicines** (2020)\
+    [Listen](https://skrapspodcast.com/podcasts/skraps/season-1/paul-ford-and-lauren-sankary/)
+
+-   **Conversations in Bioethics (Cleveland State University)**
+
+    -   *Health Care Professional–Patient Relationship* (2020)\
+        [Watch](https://www.youtube.com/watch?v=BtmvFifScZM)\
+    -   *Clinical Ethics Consultations* (2019)\
+        [Watch](https://www.youtube.com/watch?v=SN4YE0xQAhM)
+
+------------------------------------------------------------------------
+
+## Archived Coverage (Selected)
+
+-   *Healthcare IT News* (2018): [Precision medicine and respect in clinical care](https://www.healthcareitnews.com/news/precision-medicine-we-want-make-sure-people-feel-respected-clinical-ethicist-says)
+-   *Cleveland Plain Dealer* (2018): [Opioid contracts and chronic pain](https://www.cleveland.com/healthfit/index.ssf/2018/04/opioid_contracts_humiliate_som.html)
+-   *USA Today* (2016): [Teen’s decision to die sparks national debate](http://www.usatoday.com/story/news/2016/09/07/wisc-teens-decision-die-turning-point/89974124/)
+-   *Science* (2015): \[Ethical concerns in brain implant trials\]
+-   *BBC 4 Radio* (2006): *"It’s My Story: Ethicist on Call"*
+
+------------------------------------------------------------------------
+
+## Interested in Collaborating?
+
+Dr. Ford welcomes inquiries related to:
+
+-   News and science reporting
+-   Podcasts and expert panels
+-   Video interviews and community outreach
+-   Neuroscience and ethics commentary
+
+📬 [Contact Dr. Ford](mailto:fordp@ccf.org)
+
+------------------------------------------------------------------------
+
+## Related Pages
+
+-   [About](about.qmd)
+-   [Research](research.qmd)
+-   [Publications](publications.qmd)
+-   [Curriculum Vitae](cv.qmd)

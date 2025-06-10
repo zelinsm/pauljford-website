@@ -1,10 +1,21 @@
 ---
-title: "Recent Publications"
+title: "Publications"
 ---
 
----DESCRIPTION OF WORK--
+# Featured
+
+::: {.callout-note title="New Book Edited by Dr. Paul J. Ford"}
+![](images/complex_ethics_consultations_thumbnail.jpg){width="100px" style="float: right; margin-left: 20px;"}
+
+**_Complex Ethics Consultations: Cases That Haunt Us_**  
+**Cambridge University Press, 2nd Edition (2025)**
+
+An exploration of ethically and emotionally complex real-world cases, co-edited by Paul J. Ford, PhD.  
+🔗 [Read Online](https://doi-org.ccmain.ohionet.org/10.1017/9781009400947)  
+📘 [Buy Print Edition](https://www.cambridge.org/core/books/complex-ethics-consultations/3DAA263C13B92F12732CFE340A4F79C6)
+:::
+
+
+# Peer-Reviewed Articles
 
 See a full list of publications and peer review activity on [ORCiD](https://orcid.org/0000-0002-5423-8845).
-
-## Peer-Reviewed Articles
-
