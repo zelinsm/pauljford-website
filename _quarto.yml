@@ -5,8 +5,7 @@ website:
   title: "Paul J. Ford"
   description: ""
   image: images/headshot_pjf_ccf.jpg
-  favicon: 
-  
+
   navbar:
     pinned: true
     
