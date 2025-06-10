@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Paul J. Ford"
+  description: ""
+  image: images/headshot_pjf_ccf.jpg
+  favicon: images/favicon.png
+  
+  navbar:
+    pinned: true
+    
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research Interests
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: publications.qmd
+        text: Recent Publications
+      - href: media.qmd
+        text: Media
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/paul-ford-6972614/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:fordp@ccf.org"  
+ 
+  page-footer:
+    center: "© 2025 Paul J. Ford"
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

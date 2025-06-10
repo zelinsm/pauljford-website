@@ -1,0 +1,35 @@
+---
+title: "Paul J. Ford"
+---
+
+![](images/headshot_pjf_ccf.jpg){.circle-photo}
+
+**Paul J. Ford, PhD** is currently the Director of the Neuroethics Program at Cleveland Clinic, which conducts cutting-edge scholarly and empirical neuroethics research and develops and promulgates best ethical practices in the diagnosis and treatment of neurological diseases. 
+
+Dr. Ford joined the professional staff in the Department of Bioethics at Cleveland Clinic in the spring of 2001. He received a B.A. in Computer Science and Humanities and a B.S. in Mathematics from Walla Walla University in 1995. Subsequently, he received a Ph.D. in Philosophy from Vanderbilt University while participating in a two year transplantation ethics fellowship at Vanderbilt University Medical Center. Dr. Ford currently holds an appointment of Associate Professor at the Cleveland Clinic Lerner College of Medicine at Case. He actively teaches medical students, residents, and fellows, and was awarded a year long Educational Fellowship from the Cleveland Clinic Division of Education in 2009. He has been active in ethics consultation since arriving at Cleveland Clinic and has performed approximately 2, 500 ethics consultation cases primarily using an individual consultant model.
+
+Dr. Ford's primary research interests focus on ethical issues raised by neurosurgical interventions. He works closely with the Deep Brain Stimulator Team and the Epilepsy Surgery Team. He has co-edited two books and is the author of more than seventy publications. These include authorship in journal articles that have appeared in Science, The Hastings Center Report, Neurology, Neuromodulation, and Journal of Medical Ethics as well as book chapters, and invited editorials (see CV for full list here). In terms of professional service, he has presented to the Board on Health Sciences Policy at the Institute of Medicine, served on editorial boards as a peer-reviewer, and has been an organizer of international conferences. He lectures nationally and internationally on a range of issues that include neuro-ethics, clinical ethics consultation, transplantation ethics, and engineering-computer ethics.
+
+
+## Get in Touch
+
+-   Personal: [neuroethics\@sbcglobal.net](mailto:neuroethics@sbcglobal.net)
+-   Work: [fordp\@ccf.org](mailto:fordp@ccf.org)
+-   [LinkedIn](https://www.linkedin.com/in/megan-zelinsky-0468321b5/)
+-   [ResearchGate](https://www.researchgate.net/profile/Paul-Ford-7)
+
+## Recent Highlights
+
+-   See recent [Media Interviews](media.qmd).
+-   See recent [Publications](publications.qmd).
+
+## Experience and Ongoing Projects
+
+Learn more:
+
+-   [About](about.qmd)
+-   [Research Interests](research.qmd)
+-   [Curriculum Vitae](cv.qmd)
+-   [Cleveland Clinic Neuroethics](www.clevelandclinic.org/neuroethics)
+
+------------------------------------------------------------------------

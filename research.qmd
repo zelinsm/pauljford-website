@@ -1,0 +1,35 @@
+---
+title: "Research Interests"
+---
+
+My research focuses on improving the outcomes and ethical frameworks associated with neurological and neurosurgical treatments, with an emphasis on patient-centered care and the translation of research findings into clinical practice.
+
+## Neurosurgical Outcomes
+
+-   Exploring measures of efficacy that align with patient values and lived experiences in neurosurgical procedures, such as Deep Brain Stimulation (DBS) and High-Intensity Focused Ultrasound (HIFU).
+-   Developing robust, patient-centered registries to capture both clinical and experiential data from patients undergoing novel neurological treatments.
+-   Investigating long-term impacts and quality-of-life improvements resulting from neurosurgical interventions.
+
+## Neuroethics
+
+-   Examining the ethical challenges of patient selection for experimental neurosurgical procedures.
+-   Addressing informed consent barriers in neurological and neurosurgical research, particularly for vulnerable populations.
+-   Developing ethical frameworks to support decision-making and equitable access in translational neurological research.
+
+## Patient-Centered Research
+
+-   Refining methods to integrate patient values into clinical and research settings, ensuring alignment between research priorities and patient expectations.
+-   Utilizing mixed-methods and qualitative research to capture the nuanced experiences of patients navigating neurological disorders.
+-   Advancing the ethical design and implementation of shared medical appointments as innovative platforms for patient care.
+
+## Translational Research
+
+-   Bridging the gap between clinical and research practices to enhance the relevance and utility of research findings in patient care.
+-   Investigating the process of measure selection in translational neuroscience to ensure outcomes are meaningful to patients and stakeholders.
+-   Promoting the adoption of implementation science principles to improve the scalability and sustainability of neurological interventions.
+
+------------------------------------------------------------------------
+
+These areas of focus reflect my commitment to integrating ethical considerations and patient perspectives into all stages of the research process, from design to dissemination. By prioritizing patient-centered approaches, I aim to advance the quality and impact of research for neurological patient populations.
+
+------------------------------------------------------------------------
