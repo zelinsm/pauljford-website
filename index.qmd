@@ -9,41 +9,41 @@ page-layout: article
 
 Dr. Ford specializes in clinical and research neuroethics, working closely with teams in **deep brain stimulation**, **epilepsy surgery**, and related neurosurgical disciplines. His work combines **practical ethics consultation** with **qualitative research**, and he has authored more than 70 publications in journals such as *Neurology*, *The Hastings Center Report*, and *Science*.
 
-He is an Associate Professor at Cleveland Clinic Lerner College of Medicine at Case Western Reserve University, where he teaches medical students, residents, and fellows.
+He is an Associate Professor at Cleveland Clinic Lerner College of Medicine at Case Western Reserve University and he teaches medical students, residents, and fellows.
 
----
+------------------------------------------------------------------------
 
 ## Connect
 
-- Email (work): [fordp@ccf.org](mailto:fordp@ccf.org)  
-- Email (personal): [neuroethics@sbcglobal.net](mailto:neuroethics@sbcglobal.net)  
-- [LinkedIn](https://www.linkedin.com/in/paul-ford-6972614/)  
-- [ResearchGate](https://www.researchgate.net/profile/Paul-Ford-7)
+-   Email (work): [fordp\@ccf.org](mailto:fordp@ccf.org)\
+-   Email (personal): [neuroethics\@sbcglobal.net](mailto:neuroethics@sbcglobal.net)\
+-   [LinkedIn](https://www.linkedin.com/in/paul-ford-6972614/)\
+-   [ResearchGate](https://www.researchgate.net/profile/Paul-Ford-7)
 
----
+------------------------------------------------------------------------
 
 ## Recent Highlights
 
-::: {.callout-note title="New Book Edited by Dr. Paul J. Ford"}
-![](images/complex_ethics_consultations_thumbnail.jpg){width="100px" style="float: right; margin-left: 20px;"}
+::: {.callout-note title="*Coming Dec 2025* Complex Ethics Consultations, Volume 2, Co-edited by Dr. Paul J. Ford"}
+![](images/complex_ethics_consultations_volume2_thumbnail.jpg){width="100px" style="float: right; margin-left: 20px;"}
 
-**_Complex Ethics Consultations: Cases That Haunt Us_**  
-**Cambridge University Press, 2nd Edition (2025)**
+***Complex Ethics Consultations: Cases That Haunt Us in a New Era***\
+**Cambridge University Press, Volume 2 (2025)**\
+*Book Description*: Clinical ethics consultants navigate some of the most challenging cases in patient care, public health, and healthcare policy. The second volume richly details haunting cases pertaining to perinatal, paediatric, and end-of life issues; neurodiversity; disability; and employment of high-tech devices. Authors explain distinctive features of consultations in rural and pandemic contexts and complicated transitions into and out of inpatient care. Cases are grouped together by theme and organized uniformly. Each chapter includes a case presentation, the authors' professional reflections, description of haunting aspects, case outcome, and questions for discussion. Organizational ethics factors into many of the cases. The authors honestly describe the affective aspects of their work, including lingering regrets, doubts, and moral distress. They pay special attention to justice, equity and inclusivity. It is a fascinating and important read for clinicians and bioethicists engaged in clinical ethics consultations as well as ethics committee members and students.\
 
-An exploration of ethically and emotionally complex real-world cases, co-edited by Paul J. Ford, PhD.  
-🔗 [Read Online](https://doi-org.ccmain.ohionet.org/10.1017/9781009400947)  
-📘 [Buy Print Edition](https://www.cambridge.org/core/books/complex-ethics-consultations/3DAA263C13B92F12732CFE340A4F79C6)
+🔗 [Cambridge University Press](https://www.cambridge.org/core/books/complex-ethics-consultations/D09B15E9E2B502253E4A1BFCAA7A9D1C#fndtn-information)\
+🔗 [Read Volume 1, Edition 2 Online](https://www.cambridge.org/core/books/complex-ethics-consultations/CEC63BD47F3853754F6C24AC475A2151)\
+📘 [Buy Volume 1, Edition 2 Print Edition](https://www.cambridge.org/core/books/complex-ethics-consultations/3DAA263C13B92F12732CFE340A4F79C6)
 :::
 
+-   📺 [Media Engagement](media.qmd)
+-   📄 [Recent Publications](publications.qmd)
 
-- 📺 [Media Engagement](media.qmd)
-- 📄 [Recent Publications](publications.qmd)
-
----
+------------------------------------------------------------------------
 
 ## Learn More
 
-- [About Dr. Ford](about.qmd)  
-- [Research Interests](research.qmd)  
-- [Curriculum Vitae](cv.qmd)  
-- [Cleveland Clinic Neuroethics](https://my.clevelandclinic.org/departments/bioethics/neuroethics)
+-   [About Dr. Ford](about.qmd)\
+-   [Research Interests](research.qmd)\
+-   [Curriculum Vitae](cv.qmd)\
+-   [Cleveland Clinic Neuroethics](https://my.clevelandclinic.org/departments/bioethics/neuroethics)

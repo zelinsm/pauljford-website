@@ -27,9 +27,9 @@ He leads the **Neuroethics Program** and oversees the **ethics core** for neuros
 
 Dr. Ford’s research frequently addresses ethical complexities related to:
 
--   **Deep Brain Stimulation (DBS)**
--   **Responsive Neurostimulation (RNS)**
--   **High-Intensity Focused Ultrasound (HIFU)**
+-   Deep Brain Stimulation (DBS)
+-   Responsive Neurostimulation (RNS)
+-   High-Intensity Focused Ultrasound (HIFU)
 -   Emerging neuromodulation technologies
 
 He explores patient decision-making, identity, autonomy, and quality of life as they relate to these interventions, often using **qualitative methods** and case-based inquiry.
@@ -38,9 +38,9 @@ He explores patient decision-making, identity, autonomy, and quality of life as 
 
 ## Methodological Focus
 
--   **Qualitative research**, including interviews, case studies, and narrative analysis
--   **Empirical bioethics**, bridging ethics theory with real-world data
--   **Embedded ethics**, integrating ethics support directly into research teams and clinical programs
+-   Qualitative research, including interviews, case studies, and narrative analysis
+-   Empirical bioethics, bridging ethics theory with real-world data
+-   Embedded ethics, integrating ethics support directly into research teams and clinical programs
 
 ------------------------------------------------------------------------
 
@@ -54,9 +54,9 @@ Dr. Ford's research also extends into **community-based ethics education** and *
 
 Dr. Ford has been invited to present his work to a range of audiences, including:
 
-- The **Presidential Commission for the Study of Bioethical Issues** 
-- The **Institute of Medicine’s Board on Health Sciences Policy** 
-- The **Neuroethics Network** at the Cambridge-ICM Brain and Spine Institute
+- The Presidential Commission for the Study of Bioethical Issues 
+- The Institute of Medicine’s Board on Health Sciences Policy 
+- The Neuroethics Network at the Cambridge-ICM Brain and Spine Institute
 
 ------------------------------------------------------------------------
 
