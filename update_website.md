@@ -26,6 +26,12 @@
 
 This is a step-by-step guide for updating the Quarto website hosted on GitHub Pages. Follow these instructions after editing any `.qmd` file.
 
+## 0. Ensure there are no conflicts between GitHub and the local copy. In the terminal:
+
+git pull origin main
+
+This brings in changes made in Github, merging them with the local copy.
+
 ---
 
 ## 1. Render the Website
