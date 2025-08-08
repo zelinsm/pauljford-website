@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Paul J. Ford - Curriculum Vitae</title>
+<title>Paul J. Ford</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -100,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research Interests</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">Curriculum Vitae</span></a>
   </li>  
   <li class="nav-item">
@@ -139,40 +139,113 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#documentation-for-setting-custom-url" id="toc-documentation-for-setting-custom-url" class="nav-link active" data-scroll-target="#documentation-for-setting-custom-url">Documentation for Setting Custom URL</a>
+  <ul class="collapse">
+  <li><a href="#in-squarespace-dns-settings" id="toc-in-squarespace-dns-settings" class="nav-link" data-scroll-target="#in-squarespace-dns-settings">In Squarespace DNS Settings:</a></li>
+  <li><a href="#in-github-repo" id="toc-in-github-repo" class="nav-link" data-scroll-target="#in-github-repo">In GitHub Repo:</a></li>
+  </ul></li>
+  <li><a href="#how-to-update-the-website" id="toc-how-to-update-the-website" class="nav-link" data-scroll-target="#how-to-update-the-website">How to Update the Website</a>
+  <ul class="collapse">
+  <li><a href="#render-the-website" id="toc-render-the-website" class="nav-link" data-scroll-target="#render-the-website">1. Render the Website</a></li>
+  <li><a href="#optional-preview-the-website-locally" id="toc-optional-preview-the-website-locally" class="nav-link" data-scroll-target="#optional-preview-the-website-locally">2. (Optional) Preview the Website Locally</a></li>
+  <li><a href="#stage-the-changes" id="toc-stage-the-changes" class="nav-link" data-scroll-target="#stage-the-changes">3. Stage the Changes</a></li>
+  <li><a href="#commit-the-changes" id="toc-commit-the-changes" class="nav-link" data-scroll-target="#commit-the-changes">4. Commit the Changes</a></li>
+  <li><a href="#push-to-github" id="toc-push-to-github" class="nav-link" data-scroll-target="#push-to-github">5. Push to GitHub</a></li>
+  <li><a href="#check-the-live-site" id="toc-check-the-live-site" class="nav-link" data-scroll-target="#check-the-live-site">6. Check the Live Site</a></li>
+  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Curriculum Vitae</h1>
-<p class="subtitle lead">Current as of: August 2025</p>
-</div>
 
 
 
-<div class="quarto-title-meta">
+<section id="documentation-for-setting-custom-url" class="level1">
+<h1>Documentation for Setting Custom URL</h1>
+<section id="in-squarespace-dns-settings" class="level2">
+<h2 class="anchored" data-anchor-id="in-squarespace-dns-settings">In Squarespace DNS Settings:</h2>
+<ol type="1">
+<li>Deleted preset (www CNAME - squarespace extension)</li>
+<li>Add custom record: www CNAME zelinsm.github.io.</li>
+<li>Add custom records: @ A N/A 4 hrs 185.199.108.153 @ A N/A 4 hrs 185.199.109.153 @ A N/A 4 hrs 185.199.110.153 @ A N/A 4 hrs 185.199.111.153</li>
+</ol>
+</section>
+<section id="in-github-repo" class="level2">
+<h2 class="anchored" data-anchor-id="in-github-repo">In GitHub Repo:</h2>
+<ol type="1">
+<li>Navigate to: https://github.com/zelinsm/pauljford-website</li>
+<li>Click “Settings” in top navbar</li>
+<li>Click “Pages” in side navbar</li>
+<li>Under custom domain, input: www.paulfordethics.com</li>
+<li>Save and wait for DNS check</li>
+<li>Navigate back to main repo: https://github.com/zelinsm/pauljford-website</li>
+<li>Click “Add file” dropdown &gt; Create new file</li>
+<li>Name your file CNAME</li>
+<li>In the contents, type: www.paulfordethics.com</li>
+<li>Commit changes</li>
+</ol>
+</section>
+</section>
+<section id="how-to-update-the-website" class="level1">
+<h1>How to Update the Website</h1>
+<p>This is a step-by-step guide for updating the Quarto website hosted on GitHub Pages. Follow these instructions after editing any <code>.qmd</code> file.</p>
+<hr>
+<section id="render-the-website" class="level2">
+<h2 class="anchored" data-anchor-id="render-the-website">1. Render the Website</h2>
+<p>In the terminal:</p>
+<p>quarto render</p>
+<p>This converts <code>.qmd</code> files into HTML in the <code>_site/</code> folder.</p>
+<hr>
+</section>
+<section id="optional-preview-the-website-locally" class="level2">
+<h2 class="anchored" data-anchor-id="optional-preview-the-website-locally">2. (Optional) Preview the Website Locally</h2>
+<p>To view the site before uploading:</p>
+<p>quarto preview</p>
+<p>Use Ctrl+C to stop previewing.</p>
+<hr>
+</section>
+<section id="stage-the-changes" class="level2">
+<h2 class="anchored" data-anchor-id="stage-the-changes">3. Stage the Changes</h2>
+<p>In the terminal:</p>
+<p>git add .</p>
+<hr>
+</section>
+<section id="commit-the-changes" class="level2">
+<h2 class="anchored" data-anchor-id="commit-the-changes">4. Commit the Changes</h2>
+<p>git commit -m “Updates”</p>
+<p>Example: git commit -m “Update index page content”</p>
+<hr>
+</section>
+<section id="push-to-github" class="level2">
+<h2 class="anchored" data-anchor-id="push-to-github">5. Push to GitHub</h2>
+<p>git push</p>
+<hr>
+</section>
+<section id="check-the-live-site" class="level2">
+<h2 class="anchored" data-anchor-id="check-the-live-site">6. Check the Live Site</h2>
+<p>Visit: <a href="https://www.paulfordethics.com">https://www.paulfordethics.com</a></p>
+<p>It may take 10–30 seconds to update.</p>
+<hr>
+</section>
+<section id="notes" class="level2">
+<h2 class="anchored" data-anchor-id="notes">Notes</h2>
+<ul>
+<li>Do not manually edit files inside <code>_site/</code></li>
+<li><code>_quarto.yml</code> should define <code>output-dir: _site</code></li>
+<li>If the site doesn’t update, check GitHub Pages settings in the repository:<br>
+<strong>Settings → Pages → Source = <code>main</code> branch, root folder</strong></li>
+</ul>
 
-    
-  
-    
-  </div>
-  
 
-
-</header>
-
-
-<p>You can download a complete version of my CV for more details.</p>
-<p><a href="files/Ford_CV.pdf" class="btn btn-primary">Download CV</a></p>
-<iframe src="files/Ford_CV.pdf" width="100%" height="800px">
-<p>
-Your browser does not support PDFs. <a href="files/Ford_CV.pdf">Download the PDF</a>.
-</p>
-</iframe>
-
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

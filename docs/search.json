@@ -1,5 +1,215 @@
 [
   {
+    "objectID": "update_website.html",
+    "href": "update_website.html",
+    "title": "Documentation for Setting Custom URL",
+    "section": "",
+    "text": "Deleted preset (www CNAME - squarespace extension)\nAdd custom record: www CNAME zelinsm.github.io.\nAdd custom records: @ A N/A 4 hrs 185.199.108.153 @ A N/A 4 hrs 185.199.109.153 @ A N/A 4 hrs 185.199.110.153 @ A N/A 4 hrs 185.199.111.153\n\n\n\n\n\nNavigate to: https://github.com/zelinsm/pauljford-website\nClick “Settings” in top navbar\nClick “Pages” in side navbar\nUnder custom domain, input: www.paulfordethics.com\nSave and wait for DNS check\nNavigate back to main repo: https://github.com/zelinsm/pauljford-website\nClick “Add file” dropdown &gt; Create new file\nName your file CNAME\nIn the contents, type: www.paulfordethics.com\nCommit changes"
+  },
+  {
+    "objectID": "update_website.html#in-squarespace-dns-settings",
+    "href": "update_website.html#in-squarespace-dns-settings",
+    "title": "Documentation for Setting Custom URL",
+    "section": "",
+    "text": "Deleted preset (www CNAME - squarespace extension)\nAdd custom record: www CNAME zelinsm.github.io.\nAdd custom records: @ A N/A 4 hrs 185.199.108.153 @ A N/A 4 hrs 185.199.109.153 @ A N/A 4 hrs 185.199.110.153 @ A N/A 4 hrs 185.199.111.153"
+  },
+  {
+    "objectID": "update_website.html#in-github-repo",
+    "href": "update_website.html#in-github-repo",
+    "title": "Documentation for Setting Custom URL",
+    "section": "",
+    "text": "Navigate to: https://github.com/zelinsm/pauljford-website\nClick “Settings” in top navbar\nClick “Pages” in side navbar\nUnder custom domain, input: www.paulfordethics.com\nSave and wait for DNS check\nNavigate back to main repo: https://github.com/zelinsm/pauljford-website\nClick “Add file” dropdown &gt; Create new file\nName your file CNAME\nIn the contents, type: www.paulfordethics.com\nCommit changes"
+  },
+  {
+    "objectID": "update_website.html#render-the-website",
+    "href": "update_website.html#render-the-website",
+    "title": "Documentation for Setting Custom URL",
+    "section": "1. Render the Website",
+    "text": "1. Render the Website\nIn the terminal:\nquarto render\nThis converts .qmd files into HTML in the _site/ folder."
+  },
+  {
+    "objectID": "update_website.html#optional-preview-the-website-locally",
+    "href": "update_website.html#optional-preview-the-website-locally",
+    "title": "Documentation for Setting Custom URL",
+    "section": "2. (Optional) Preview the Website Locally",
+    "text": "2. (Optional) Preview the Website Locally\nTo view the site before uploading:\nquarto preview\nUse Ctrl+C to stop previewing."
+  },
+  {
+    "objectID": "update_website.html#stage-the-changes",
+    "href": "update_website.html#stage-the-changes",
+    "title": "Documentation for Setting Custom URL",
+    "section": "3. Stage the Changes",
+    "text": "3. Stage the Changes\nIn the terminal:\ngit add ."
+  },
+  {
+    "objectID": "update_website.html#commit-the-changes",
+    "href": "update_website.html#commit-the-changes",
+    "title": "Documentation for Setting Custom URL",
+    "section": "4. Commit the Changes",
+    "text": "4. Commit the Changes\ngit commit -m “Updates”\nExample: git commit -m “Update index page content”"
+  },
+  {
+    "objectID": "update_website.html#push-to-github",
+    "href": "update_website.html#push-to-github",
+    "title": "Documentation for Setting Custom URL",
+    "section": "5. Push to GitHub",
+    "text": "5. Push to GitHub\ngit push"
+  },
+  {
+    "objectID": "update_website.html#check-the-live-site",
+    "href": "update_website.html#check-the-live-site",
+    "title": "Documentation for Setting Custom URL",
+    "section": "6. Check the Live Site",
+    "text": "6. Check the Live Site\nVisit: https://www.paulfordethics.com\nIt may take 10–30 seconds to update."
+  },
+  {
+    "objectID": "update_website.html#notes",
+    "href": "update_website.html#notes",
+    "title": "Documentation for Setting Custom URL",
+    "section": "Notes",
+    "text": "Notes\n\nDo not manually edit files inside _site/\n_quarto.yml should define output-dir: _site\nIf the site doesn’t update, check GitHub Pages settings in the repository:\nSettings → Pages → Source = main branch, root folder"
+  },
+  {
+    "objectID": "research-opportunities.html",
+    "href": "research-opportunities.html",
+    "title": "Research Opportunities",
+    "section": "",
+    "text": "Dr. Ford and his team at the Cleveland Clinic Neuroethics Program welcome collaborators, co-authors, trainees, and students interested in the ethical dimensions of neuroscience, neurosurgery, and neurological care.\nWe work at the intersection of clinical care, bioethics, and neuroscience research, and we believe that the best ethical thinking is collaborative, practical, and informed by real-world experience."
+  },
+  {
+    "objectID": "research-opportunities.html#who-should-reach-out",
+    "href": "research-opportunities.html#who-should-reach-out",
+    "title": "Research Opportunities",
+    "section": "Who Should Reach Out?",
+    "text": "Who Should Reach Out?\nWe are open to inquiries from:\n\nUndergraduate and graduate students interested in bioethics, neuroscience, philosophy, or medical humanities\nMedical students, residents, and fellows seeking research, mentorship, or ethics-focused clinical experience\nFaculty or postdoctoral researchers in neurology, neurosurgery, psychiatry, law, or related fields\nWriters, journalists, or science communicators exploring ethical topics in brain science\nCommunity partners or educators interested in promoting equity and ethical awareness in brain health research"
+  },
+  {
+    "objectID": "research-opportunities.html#what-we-offer",
+    "href": "research-opportunities.html#what-we-offer",
+    "title": "Research Opportunities",
+    "section": "What We Offer",
+    "text": "What We Offer\n\nOpportunities to collaborate on empirical or conceptual projects in neuroethics\nCase-based exploration of ethical issues in device-based neurosurgery, neurotechnologies, and brain health equity\nCo-authorship and mentorship opportunities with experienced clinical ethicists\nA chance to engage in embedded ethics—working side-by-side with clinicians and researchers in real clinical settings\n\nCollaborators may contribute to:\n\nQualitative research (e.g., interviews, thematic analysis)\nManuscript development or grant proposals\nEthics consultation scholarship\nDevelopment of educational materials or public-facing work"
+  },
+  {
+    "objectID": "research-opportunities.html#how-to-get-involved",
+    "href": "research-opportunities.html#how-to-get-involved",
+    "title": "Research Opportunities",
+    "section": "How to Get Involved",
+    "text": "How to Get Involved\nTo inquire about opportunities, please send:\n\nA brief statement of interest (1–2 paragraphs)\nA CV or résumé (PDF)\n\nto Dr. Paul J. Ford with the subject line:\nNeuroethics Research Opportunity Inquiry\nIf you are a resident or fellow considering a clinical program at Cleveland Clinic and would like to integrate bioethics into your training, you’re especially encouraged to reach out."
+  },
+  {
+    "objectID": "research-opportunities.html#not-sure-where-to-start",
+    "href": "research-opportunities.html#not-sure-where-to-start",
+    "title": "Research Opportunities",
+    "section": "Not Sure Where to Start?",
+    "text": "Not Sure Where to Start?\nYou don’t need a background in bioethics to contribute meaningfully to neuroethics research. If you’re curious, compassionate, and interested in ethical questions at the frontier of brain science Dr. Ford and his team would love to hear from you."
+  },
+  {
+    "objectID": "research-opportunities.html#learn-more",
+    "href": "research-opportunities.html#learn-more",
+    "title": "Research Opportunities",
+    "section": "Learn More",
+    "text": "Learn More\n\nAbout Dr. Ford\nCurrent Research Projects\nRecent Publications"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media Engagement",
+    "section": "",
+    "text": "Dr. Paul J. Ford is frequently invited to share expert insights on ethical challenges in neuroscience, neurosurgery, and healthcare innovation. His work has been featured in national news outlets, science podcasts, ethics forums, and community education efforts."
+  },
+  {
+    "objectID": "media.html#featured-interviews-appearances",
+    "href": "media.html#featured-interviews-appearances",
+    "title": "Media Engagement",
+    "section": "Featured Interviews & Appearances",
+    "text": "Featured Interviews & Appearances\n\nThe Brain Storm Podcast\n“Informed Consent and Awake Neurosurgery”\nRecorded 2023\nListen to the episode\n(Look for episode title on site)\n\n\n\nNeurophilia Podcast\n“Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas”\nRecorded 2023\nListen on Apple Podcasts\n📺 Watch preview on YouTube\n\n\n\nNeurology Today\n“Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research.”\nPublished 2024\nRead article\n\n\n\nCommunity Video Education\n“Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges”\nRecorded 2023\n📺 Watch on YouTube"
+  },
+  {
+    "objectID": "media.html#additional-media-features",
+    "href": "media.html#additional-media-features",
+    "title": "Media Engagement",
+    "section": "Additional Media Features",
+    "text": "Additional Media Features\n\nAI and Ethics in Healthcare\nCrain’s Cleveland Business (2023)\nRead article\nBioethics for the People: Unconference Episode 1 (2022)\nListen\nNeurology Podcast (AAN)\nPatient Perceptions of FDA Approval (2021)\nFull episode\nNeurology Minute summary\nSKRAPS Podcast: Bioethics and Bioelectronic Medicines (2020)\nListen\nConversations in Bioethics (Cleveland State University)\n\nHealth Care Professional–Patient Relationship (2020)\nWatch\n\nClinical Ethics Consultations (2019)\nWatch"
+  },
+  {
+    "objectID": "media.html#archived-coverage-selected",
+    "href": "media.html#archived-coverage-selected",
+    "title": "Media Engagement",
+    "section": "Archived Coverage (Selected)",
+    "text": "Archived Coverage (Selected)\n\nHealthcare IT News (2018): Precision medicine and respect in clinical care\nCleveland Plain Dealer (2018): Opioid contracts and chronic pain\nUSA Today (2016): Teen’s decision to die sparks national debate\nScience (2015): [Ethical concerns in brain implant trials]\nBBC 4 Radio (2006): “It’s My Story: Ethicist on Call”"
+  },
+  {
+    "objectID": "media.html#interested-in-collaborating",
+    "href": "media.html#interested-in-collaborating",
+    "title": "Media Engagement",
+    "section": "Interested in Collaborating?",
+    "text": "Interested in Collaborating?\nDr. Ford welcomes inquiries related to:\n\nNews and science reporting\nPodcasts and expert panels\nVideo interviews and community outreach\nNeuroscience and ethics commentary\n\n📬 Contact Dr. Ford"
+  },
+  {
+    "objectID": "media.html#related-pages",
+    "href": "media.html#related-pages",
+    "title": "Media Engagement",
+    "section": "Related Pages",
+    "text": "Related Pages\n\nAbout\nResearch\nPublications\nCurriculum Vitae"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download a complete version of my CV for more details.\nDownload CV\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"files/Ford_CV.pdf\"&gt;Download the PDF&lt;/a&gt;.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Paul J. Ford, PhD is a clinical ethicist and philosopher whose work bridges the complex ethical challenges faced in neuroscience, neurosurgery, and neurological research. He directs the Neuroethics Program within the Neurological Institute at Cleveland Clinic, where he is embedded in clinical practice and research initiatives.\nHis expertise is grounded in over 2,500 ethics consultations, including inpatient, outpatient, and research-focused cases. These interactions provide deep insight into the ethical tensions experienced by patients, families, researchers, and clinicians.\nDr. Ford’s research primarily explores qualitative and empirical approaches to neuroethics, with a focus on ethical issues in functional neurosurgery, device-based interventions, and patient decision-making. He also leads the ethics core that supports grant development and research implementation for neuroscience investigators.\nHe is a frequent reviewer for NIH and CDMRP grants, and regularly contributes to national and international conversations on bioethics. His talks include presentations to:\nDr. Ford teaches across levels—from medical trainees to community stakeholders—and is passionate about promoting equity and practical ethical thinking in research and care. His outreach extends into local communities to foster health equity, research inclusion, and ethics education."
+  },
+  {
+    "objectID": "about.html#public-talks-and-media",
+    "href": "about.html#public-talks-and-media",
+    "title": "About",
+    "section": "Public Talks and Media",
+    "text": "Public Talks and Media\nWatch Dr. Ford share perspectives on ethical complexity in research and care:\nWatch on YouTube"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul J. Ford, PhD",
+    "section": "",
+    "text": "Paul J. Ford, PhD is Director of the Neuroethics Program at Cleveland Clinic, where he leads interdisciplinary research and ethical practice in the diagnosis and treatment of neurological diseases.\nDr. Ford specializes in clinical and research neuroethics, working closely with teams in deep brain stimulation, epilepsy surgery, and related neurosurgical disciplines. His work combines practical ethics consultation with qualitative research, and he has authored more than 70 publications in journals such as Neurology, The Hastings Center Report, and Science.\nHe is an Associate Professor at Cleveland Clinic Lerner College of Medicine at Case Western Reserve University and he teaches medical students, residents, and fellows."
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Paul J. Ford, PhD",
+    "section": "Connect",
+    "text": "Connect\n\nEmail (work): fordp@ccf.org\n\nEmail (personal): neuroethics@sbcglobal.net\n\nLinkedIn\n\nResearchGate"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Paul J. Ford, PhD",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n\n\n\n\n\nComing Dec 2025 Complex Ethics Consultations, Volume 2, Co-edited by Dr. Paul J. Ford\n\n\n\n\nComplex Ethics Consultations: Cases That Haunt Us in a New Era\nCambridge University Press, Volume 2 (2025)\nBook Description: Clinical ethics consultants navigate some of the most challenging cases in patient care, public health, and healthcare policy. The second volume richly details haunting cases pertaining to perinatal, paediatric, and end-of life issues; neurodiversity; disability; and employment of high-tech devices. Authors explain distinctive features of consultations in rural and pandemic contexts and complicated transitions into and out of inpatient care. Cases are grouped together by theme and organized uniformly. Each chapter includes a case presentation, the authors’ professional reflections, description of haunting aspects, case outcome, and questions for discussion. Organizational ethics factors into many of the cases. The authors honestly describe the affective aspects of their work, including lingering regrets, doubts, and moral distress. They pay special attention to justice, equity and inclusivity. It is a fascinating and important read for clinicians and bioethicists engaged in clinical ethics consultations as well as ethics committee members and students.\n\n🔗 Cambridge University Press\n🔗 Read Volume 1, Edition 2 Online\n📘 Buy Volume 1, Edition 2 Print Edition\n\n\n\n📺 Media Engagement\n📄 Recent Publications"
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "Paul J. Ford, PhD",
+    "section": "Learn More",
+    "text": "Learn More\n\nAbout Dr. Ford\n\nResearch Interests\n\nCurriculum Vitae\n\nCleveland Clinic Neuroethics"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Featured\n\n\n\n\n\n\nNew Book Edited by Dr. Paul J. Ford\n\n\n\n\nComplex Ethics Consultations: Cases That Haunt Us\nCambridge University Press, 2nd Edition (2025)\nAn exploration of ethically and emotionally complex real-world cases, co-edited by Paul J. Ford, PhD.\n🔗 Read Online\n📘 Buy Print Edition\n\n\n\n\nPeer-Reviewed Articles\nSee a full list of publications and peer review activity on ORCiD."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research Interests",
@@ -47,145 +257,5 @@
     "title": "Research Interests",
     "section": "Related Pages",
     "text": "Related Pages\n\nCurriculum Vitae\nPublications\nMedia\nAbout"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Featured\n\n\n\n\n\n\nNew Book Edited by Dr. Paul J. Ford\n\n\n\n\nComplex Ethics Consultations: Cases That Haunt Us\nCambridge University Press, 2nd Edition (2025)\nAn exploration of ethically and emotionally complex real-world cases, co-edited by Paul J. Ford, PhD.\n🔗 Read Online\n📘 Buy Print Edition\n\n\n\n\nPeer-Reviewed Articles\nSee a full list of publications and peer review activity on ORCiD."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paul J. Ford, PhD",
-    "section": "",
-    "text": "Paul J. Ford, PhD is Director of the Neuroethics Program at Cleveland Clinic, where he leads interdisciplinary research and ethical practice in the diagnosis and treatment of neurological diseases.\nDr. Ford specializes in clinical and research neuroethics, working closely with teams in deep brain stimulation, epilepsy surgery, and related neurosurgical disciplines. His work combines practical ethics consultation with qualitative research, and he has authored more than 70 publications in journals such as Neurology, The Hastings Center Report, and Science.\nHe is an Associate Professor at Cleveland Clinic Lerner College of Medicine at Case Western Reserve University and he teaches medical students, residents, and fellows."
-  },
-  {
-    "objectID": "index.html#connect",
-    "href": "index.html#connect",
-    "title": "Paul J. Ford, PhD",
-    "section": "Connect",
-    "text": "Connect\n\nEmail (work): fordp@ccf.org\n\nEmail (personal): neuroethics@sbcglobal.net\n\nLinkedIn\n\nResearchGate"
-  },
-  {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "Paul J. Ford, PhD",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\n\n\n\n\n\nComing Dec 2025 Complex Ethics Consultations, Volume 2, Co-edited by Dr. Paul J. Ford\n\n\n\n\nComplex Ethics Consultations: Cases That Haunt Us in a New Era\nCambridge University Press, Volume 2 (2025)\nBook Description: Clinical ethics consultants navigate some of the most challenging cases in patient care, public health, and healthcare policy. The second volume richly details haunting cases pertaining to perinatal, paediatric, and end-of life issues; neurodiversity; disability; and employment of high-tech devices. Authors explain distinctive features of consultations in rural and pandemic contexts and complicated transitions into and out of inpatient care. Cases are grouped together by theme and organized uniformly. Each chapter includes a case presentation, the authors’ professional reflections, description of haunting aspects, case outcome, and questions for discussion. Organizational ethics factors into many of the cases. The authors honestly describe the affective aspects of their work, including lingering regrets, doubts, and moral distress. They pay special attention to justice, equity and inclusivity. It is a fascinating and important read for clinicians and bioethicists engaged in clinical ethics consultations as well as ethics committee members and students.\n\n🔗 Cambridge University Press\n🔗 Read Volume 1, Edition 2 Online\n📘 Buy Volume 1, Edition 2 Print Edition\n\n\n\n📺 Media Engagement\n📄 Recent Publications"
-  },
-  {
-    "objectID": "index.html#learn-more",
-    "href": "index.html#learn-more",
-    "title": "Paul J. Ford, PhD",
-    "section": "Learn More",
-    "text": "Learn More\n\nAbout Dr. Ford\n\nResearch Interests\n\nCurriculum Vitae\n\nCleveland Clinic Neuroethics"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Paul J. Ford, PhD is a clinical ethicist and philosopher whose work bridges the complex ethical challenges faced in neuroscience, neurosurgery, and neurological research. He directs the Neuroethics Program within the Neurological Institute at Cleveland Clinic, where he is embedded in clinical practice and research initiatives.\nHis expertise is grounded in over 2,500 ethics consultations, including inpatient, outpatient, and research-focused cases. These interactions provide deep insight into the ethical tensions experienced by patients, families, researchers, and clinicians.\nDr. Ford’s research primarily explores qualitative and empirical approaches to neuroethics, with a focus on ethical issues in functional neurosurgery, device-based interventions, and patient decision-making. He also leads the ethics core that supports grant development and research implementation for neuroscience investigators.\nHe is a frequent reviewer for NIH and CDMRP grants, and regularly contributes to national and international conversations on bioethics. His talks include presentations to:\nDr. Ford teaches across levels—from medical trainees to community stakeholders—and is passionate about promoting equity and practical ethical thinking in research and care. His outreach extends into local communities to foster health equity, research inclusion, and ethics education."
-  },
-  {
-    "objectID": "about.html#public-talks-and-media",
-    "href": "about.html#public-talks-and-media",
-    "title": "About",
-    "section": "Public Talks and Media",
-    "text": "Public Talks and Media\nWatch Dr. Ford share perspectives on ethical complexity in research and care:\nWatch on YouTube"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "You can download a complete version of my CV for more details.\nDownload CV\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"files/Ford_CV_2025_April.pdf\"&gt;Download the PDF&lt;/a&gt;.\n&lt;/p&gt;"
-  },
-  {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media Engagement",
-    "section": "",
-    "text": "Dr. Paul J. Ford is frequently invited to share expert insights on ethical challenges in neuroscience, neurosurgery, and healthcare innovation. His work has been featured in national news outlets, science podcasts, ethics forums, and community education efforts."
-  },
-  {
-    "objectID": "media.html#featured-interviews-appearances",
-    "href": "media.html#featured-interviews-appearances",
-    "title": "Media Engagement",
-    "section": "Featured Interviews & Appearances",
-    "text": "Featured Interviews & Appearances\n\nThe Brain Storm Podcast\n“Informed Consent and Awake Neurosurgery”\nRecorded 2023\nListen to the episode\n(Look for episode title on site)\n\n\n\nNeurophilia Podcast\n“Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas”\nRecorded 2023\nListen on Apple Podcasts\n📺 Watch preview on YouTube\n\n\n\nNeurology Today\n“Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research.”\nPublished 2024\nRead article\n\n\n\nCommunity Video Education\n“Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges”\nRecorded 2023\n📺 Watch on YouTube"
-  },
-  {
-    "objectID": "media.html#additional-media-features",
-    "href": "media.html#additional-media-features",
-    "title": "Media Engagement",
-    "section": "Additional Media Features",
-    "text": "Additional Media Features\n\nAI and Ethics in Healthcare\nCrain’s Cleveland Business (2023)\nRead article\nBioethics for the People: Unconference Episode 1 (2022)\nListen\nNeurology Podcast (AAN)\nPatient Perceptions of FDA Approval (2021)\nFull episode\nNeurology Minute summary\nSKRAPS Podcast: Bioethics and Bioelectronic Medicines (2020)\nListen\nConversations in Bioethics (Cleveland State University)\n\nHealth Care Professional–Patient Relationship (2020)\nWatch\n\nClinical Ethics Consultations (2019)\nWatch"
-  },
-  {
-    "objectID": "media.html#archived-coverage-selected",
-    "href": "media.html#archived-coverage-selected",
-    "title": "Media Engagement",
-    "section": "Archived Coverage (Selected)",
-    "text": "Archived Coverage (Selected)\n\nHealthcare IT News (2018): Precision medicine and respect in clinical care\nCleveland Plain Dealer (2018): Opioid contracts and chronic pain\nUSA Today (2016): Teen’s decision to die sparks national debate\nScience (2015): [Ethical concerns in brain implant trials]\nBBC 4 Radio (2006): “It’s My Story: Ethicist on Call”"
-  },
-  {
-    "objectID": "media.html#interested-in-collaborating",
-    "href": "media.html#interested-in-collaborating",
-    "title": "Media Engagement",
-    "section": "Interested in Collaborating?",
-    "text": "Interested in Collaborating?\nDr. Ford welcomes inquiries related to:\n\nNews and science reporting\nPodcasts and expert panels\nVideo interviews and community outreach\nNeuroscience and ethics commentary\n\n📬 Contact Dr. Ford"
-  },
-  {
-    "objectID": "media.html#related-pages",
-    "href": "media.html#related-pages",
-    "title": "Media Engagement",
-    "section": "Related Pages",
-    "text": "Related Pages\n\nAbout\nResearch\nPublications\nCurriculum Vitae"
-  },
-  {
-    "objectID": "research-opportunities.html",
-    "href": "research-opportunities.html",
-    "title": "Research Opportunities",
-    "section": "",
-    "text": "Dr. Ford and his team at the Cleveland Clinic Neuroethics Program welcome collaborators, co-authors, trainees, and students interested in the ethical dimensions of neuroscience, neurosurgery, and neurological care.\nWe work at the intersection of clinical care, bioethics, and neuroscience research, and we believe that the best ethical thinking is collaborative, practical, and informed by real-world experience."
-  },
-  {
-    "objectID": "research-opportunities.html#who-should-reach-out",
-    "href": "research-opportunities.html#who-should-reach-out",
-    "title": "Research Opportunities",
-    "section": "Who Should Reach Out?",
-    "text": "Who Should Reach Out?\nWe are open to inquiries from:\n\nUndergraduate and graduate students interested in bioethics, neuroscience, philosophy, or medical humanities\nMedical students, residents, and fellows seeking research, mentorship, or ethics-focused clinical experience\nFaculty or postdoctoral researchers in neurology, neurosurgery, psychiatry, law, or related fields\nWriters, journalists, or science communicators exploring ethical topics in brain science\nCommunity partners or educators interested in promoting equity and ethical awareness in brain health research"
-  },
-  {
-    "objectID": "research-opportunities.html#what-we-offer",
-    "href": "research-opportunities.html#what-we-offer",
-    "title": "Research Opportunities",
-    "section": "What We Offer",
-    "text": "What We Offer\n\nOpportunities to collaborate on empirical or conceptual projects in neuroethics\nCase-based exploration of ethical issues in device-based neurosurgery, neurotechnologies, and brain health equity\nCo-authorship and mentorship opportunities with experienced clinical ethicists\nA chance to engage in embedded ethics—working side-by-side with clinicians and researchers in real clinical settings\n\nCollaborators may contribute to:\n\nQualitative research (e.g., interviews, thematic analysis)\nManuscript development or grant proposals\nEthics consultation scholarship\nDevelopment of educational materials or public-facing work"
-  },
-  {
-    "objectID": "research-opportunities.html#how-to-get-involved",
-    "href": "research-opportunities.html#how-to-get-involved",
-    "title": "Research Opportunities",
-    "section": "How to Get Involved",
-    "text": "How to Get Involved\nTo inquire about opportunities, please send:\n\nA brief statement of interest (1–2 paragraphs)\nA CV or résumé (PDF)\n\nto Dr. Paul J. Ford with the subject line:\nNeuroethics Research Opportunity Inquiry\nIf you are a resident or fellow considering a clinical program at Cleveland Clinic and would like to integrate bioethics into your training, you’re especially encouraged to reach out."
-  },
-  {
-    "objectID": "research-opportunities.html#not-sure-where-to-start",
-    "href": "research-opportunities.html#not-sure-where-to-start",
-    "title": "Research Opportunities",
-    "section": "Not Sure Where to Start?",
-    "text": "Not Sure Where to Start?\nYou don’t need a background in bioethics to contribute meaningfully to neuroethics research. If you’re curious, compassionate, and interested in ethical questions at the frontier of brain science Dr. Ford and his team would love to hear from you."
-  },
-  {
-    "objectID": "research-opportunities.html#learn-more",
-    "href": "research-opportunities.html#learn-more",
-    "title": "Research Opportunities",
-    "section": "Learn More",
-    "text": "Learn More\n\nAbout Dr. Ford\nCurrent Research Projects\nRecent Publications"
   }
 ]
