@@ -21,6 +21,13 @@
     "text": "Navigate to: https://github.com/zelinsm/pauljford-website\nClick “Settings” in top navbar\nClick “Pages” in side navbar\nUnder custom domain, input: www.paulfordethics.com\nSave and wait for DNS check\nNavigate back to main repo: https://github.com/zelinsm/pauljford-website\nClick “Add file” dropdown &gt; Create new file\nName your file CNAME\nIn the contents, type: www.paulfordethics.com\nCommit changes"
   },
   {
+    "objectID": "update_website.html#ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal",
+    "href": "update_website.html#ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal",
+    "title": "Documentation for Setting Custom URL",
+    "section": "0. Ensure there are no conflicts between GitHub and the local copy. In the terminal:",
+    "text": "0. Ensure there are no conflicts between GitHub and the local copy. In the terminal:\ngit pull origin main\nThis brings in changes made in Github, merging them with the local copy."
+  },
+  {
     "objectID": "update_website.html#render-the-website",
     "href": "update_website.html#render-the-website",
     "title": "Documentation for Setting Custom URL",
@@ -123,7 +130,7 @@
     "href": "media.html#featured-interviews-appearances",
     "title": "Media Engagement",
     "section": "Featured Interviews & Appearances",
-    "text": "Featured Interviews & Appearances\n\nThe Brain Storm Podcast\n“Informed Consent and Awake Neurosurgery”\nRecorded 2023\nListen to the episode\n(Look for episode title on site)\n\n\n\nNeurophilia Podcast\n“Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas”\nRecorded 2023\nListen on Apple Podcasts\n📺 Watch preview on YouTube\n\n\n\nNeurology Today\n“Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research.”\nPublished 2024\nRead article\n\n\n\nCommunity Video Education\n“Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges”\nRecorded 2023\n📺 Watch on YouTube"
+    "text": "Featured Interviews & Appearances\n\nNeurology Live\n“Shared Decision-Making and Ethics in Complex Neurology Clinical Research”\nRecorded 2025\n📺 Watch on Neurology Live\nRead commentary\n\n\n\nThe Brain Storm Podcast\n“Informed Consent and Awake Neurosurgery”\nRecorded 2023\nListen to the episode\n(Look for episode title on site)\n\n\n\nNeurophilia Podcast\n“Recognizing Values in Patient Care and Learning to Address Neuroethical Dilemmas”\nRecorded 2023\nListen on Apple Podcasts\n📺 Watch preview on YouTube\n\n\n\nNeurology Today\n“Did a Computer Write This? Ethical and Legal Questions About the Use of Large Learning Models in Scientific Research.”\nPublished 2024\nRead article\n\n\n\nCommunity Video Education\n“Clinical Ethics Balancing: Dementia’s Counter-Intuitive Challenges”\nRecorded 2023\n📺 Watch on YouTube"
   },
   {
     "objectID": "media.html#additional-media-features",
@@ -158,7 +165,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "You can download a complete version of my CV for more details.\nDownload CV\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"files/Ford_CV.pdf\"&gt;Download the PDF&lt;/a&gt;.\n&lt;/p&gt;"
+    "text": "You can download a complete version of my CV for more details.\nDownload CV\n\n&lt;p&gt;\nYour browser does not support PDFs. &lt;a href=\"files/Ford_CV_2025_Sept.pdf\"&gt;Download the PDF&lt;/a&gt;.\n&lt;/p&gt;"
   },
   {
     "objectID": "about.html",

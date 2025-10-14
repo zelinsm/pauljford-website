@@ -150,6 +150,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#how-to-update-the-website" id="toc-how-to-update-the-website" class="nav-link" data-scroll-target="#how-to-update-the-website">How to Update the Website</a>
   <ul class="collapse">
+  <li><a href="#ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal" id="toc-ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal" class="nav-link" data-scroll-target="#ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal">0. Ensure there are no conflicts between GitHub and the local copy. In the terminal:</a></li>
   <li><a href="#render-the-website" id="toc-render-the-website" class="nav-link" data-scroll-target="#render-the-website">1. Render the Website</a></li>
   <li><a href="#optional-preview-the-website-locally" id="toc-optional-preview-the-website-locally" class="nav-link" data-scroll-target="#optional-preview-the-website-locally">2. (Optional) Preview the Website Locally</a></li>
   <li><a href="#stage-the-changes" id="toc-stage-the-changes" class="nav-link" data-scroll-target="#stage-the-changes">3. Stage the Changes</a></li>
@@ -196,7 +197,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="how-to-update-the-website" class="level1">
 <h1>How to Update the Website</h1>
 <p>This is a step-by-step guide for updating the Quarto website hosted on GitHub Pages. Follow these instructions after editing any <code>.qmd</code> file.</p>
+<section id="ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal" class="level2">
+<h2 class="anchored" data-anchor-id="ensure-there-are-no-conflicts-between-github-and-the-local-copy.-in-the-terminal">0. Ensure there are no conflicts between GitHub and the local copy. In the terminal:</h2>
+<p>git pull origin main</p>
+<p>This brings in changes made in Github, merging them with the local copy.</p>
 <hr>
+</section>
 <section id="render-the-website" class="level2">
 <h2 class="anchored" data-anchor-id="render-the-website">1. Render the Website</h2>
 <p>In the terminal:</p>
