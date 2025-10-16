@@ -31,9 +31,11 @@ He is an Associate Professor at Cleveland Clinic Lerner College of Medicine at C
 **Cambridge University Press, Volume 2 (2025)**\
 *Book Description*: Clinical ethics consultants navigate some of the most challenging cases in patient care, public health, and healthcare policy. The second volume richly details haunting cases pertaining to perinatal, paediatric, and end-of life issues; neurodiversity; disability; and employment of high-tech devices. Authors explain distinctive features of consultations in rural and pandemic contexts and complicated transitions into and out of inpatient care. Cases are grouped together by theme and organized uniformly. Each chapter includes a case presentation, the authors' professional reflections, description of haunting aspects, case outcome, and questions for discussion. Organizational ethics factors into many of the cases. The authors honestly describe the affective aspects of their work, including lingering regrets, doubts, and moral distress. They pay special attention to justice, equity and inclusivity. It is a fascinating and important read for clinicians and bioethicists engaged in clinical ethics consultations as well as ethics committee members and students.\
 
-🔗 [Cambridge University Press](https://www.cambridge.org/core/books/complex-ethics-consultations/D09B15E9E2B502253E4A1BFCAA7A9D1C#fndtn-information)\
-🔗 [Read Volume 1, Edition 2 Online](https://www.cambridge.org/core/books/complex-ethics-consultations/CEC63BD47F3853754F6C24AC475A2151)\
-📘 [Buy Volume 1, Edition 2 Print Edition](https://www.cambridge.org/core/books/complex-ethics-consultations/3DAA263C13B92F12732CFE340A4F79C6)
+📘 [Pre-order **Complex Ethics Consultations** Volume 2](www.cambridge.org/9781009400909)\
+🔗 [Read **Complex Ethics Consultations** Volume 1, 2nd Edition Online](https://www.cambridge.org/core/books/complex-ethics-consultations/CEC63BD47F3853754F6C24AC475A2151)\
+📘 [Buy **Complex Ethics Consultations** Volume 1, 2nd Edition Print](www.cambridge.org/9781009400954)\
+
+Get 20% off these titles using code **CEC20** at checkout.
 :::
 
 -   📺 [Media Engagement](media.qmd)
@@ -47,3 +49,80 @@ He is an Associate Professor at Cleveland Clinic Lerner College of Medicine at C
 -   [Research Interests](research.qmd)\
 -   [Curriculum Vitae](cv.qmd)\
 -   [Cleveland Clinic Neuroethics](https://my.clevelandclinic.org/departments/bioethics/neuroethics)
+
+
+```{=html}
+<!-- ===== Coupon Popup ===== -->
+<div id="coupon-popup" class="popup-overlay">
+  <div class="popup-content">
+    <button class="popup-close" onclick="closePopup()">×</button>
+    <h2>Complex Ethics Consultations, Co-edited by Dr. Paul J. Ford</h2>
+    <p>Order now and save <strong>20%</strong> with code <strong>CEC20</strong>.</p>
+    <a href="www.cambridge.org/9781009400954"
+       target="_blank" class="popup-button">Buy Volume 1: 2nd Edition</a>
+    <p style="margin-top:0.5rem;">
+      <a href="/files/CEC_US Letter_Pre-order flyer.pdf" target="_blank">Download flyer (PDF)</a>
+    </p>
+  </div>
+</div>
+
+<style>
+#coupon-popup {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+}
+.popup-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 420px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  position: relative;
+  font-family: system-ui, sans-serif;
+}
+.popup-close {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #666;
+  cursor: pointer;
+}
+.popup-button {
+  display: inline-block;
+  background: #004aad;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+.popup-button:hover {
+  background: #003a88;
+}
+</style>
+
+<script>
+function showPopup() {
+  if (!localStorage.getItem('couponSeen')) {
+    document.getElementById('coupon-popup').style.display = 'flex';
+  }
+}
+
+function closePopup() {
+  document.getElementById('coupon-popup').style.display = 'none';
+  localStorage.setItem('couponSeen', 'true');
+}
+
+window.addEventListener('load', () => setTimeout(showPopup, 2500));
+</script>
+```
+
