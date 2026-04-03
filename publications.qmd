@@ -4,15 +4,16 @@ title: "Publications"
 
 # Featured
 
-::: {.callout-note title="New Book Edited by Dr. Paul J. Ford"}
-![](images/complex_ethics_consultations_thumbnail.jpg){width="100px" style="float: right; margin-left: 20px;"}
+::: {.callout-note title="*Published 2026*: Complex Ethics Consultations, Volume 2, Co-edited by Dr. Paul J. Ford"}
+![](images/complex_ethics_consultations_volume2_thumbnail.jpg){width="100px" style="float: right; margin-left: 20px;"}
 
 **_Complex Ethics Consultations: Cases That Haunt Us_**  
-**Cambridge University Press, 2nd Edition (2025)**
+**Cambridge University Press**
 
 An exploration of ethically and emotionally complex real-world cases, co-edited by Paul J. Ford, PhD.  
-🔗 [Read Online](https://doi.org/10.1017/9781009400947)  
-📘 [Buy Print Edition](https://www.cambridge.org/9781009400954)
+🔗 [Read Online with Institutional Access to **Cambridge Core**](https://www.cambridge.org/core/books/complex-ethics-consultations/D09B15E9E2B502253E4A1BFCAA7A9D1C)  
+📘 [Buy Print Edition](https://www.cambridge.org/us/universitypress/subjects/life-sciences/bioethics/complex-ethics-consultations-cases-haunt-us-new-era-volume-2?format=PB&isbn=9781009400909)
+Get 20% off using code **CEC20** at checkout from Cambridge University Press. Offer valid through December 1, 2026. [Download Flyer (PDF)](/files/CEC_US%20Letter_Pre-order%20flyer.pdf)
 :::
 
 

@@ -1,13 +1,13 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Current as of: September 2025"
+subtitle: "Current as of: February 2026"
 ---
 
 You can download a complete version of my CV for more details.
 
-[Download CV](files/Ford_CV_2025_Sept.pdf){.btn .btn-primary}
+[Download CV](files/Ford_CV_2026 February.pdf){.btn .btn-primary}
 
-<iframe src="files/Ford_CV_2025_Sept.pdf" width="100%" height="800px">
+<iframe src="files/Ford_CV_2026 February.pdf" width="100%" height="800px">
   <p>Your browser does not support PDFs.
-  <a href="files/Ford_CV_2025_Sept.pdf">Download the PDF</a>.</p>
+  <a href="files/Ford_CV_2026 February.pdf">Download the PDF</a>.</p>
 </iframe>
