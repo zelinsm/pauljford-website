@@ -56,11 +56,11 @@
     "text": "4. Commit the Changes\ngit commit -m “Updates”\nExample: git commit -m “Update index page content”"
   },
   {
-    "objectID": "update_website.html#push-to-github",
-    "href": "update_website.html#push-to-github",
+    "objectID": "update_website.html#push-to-github-use-the-button-instead-of-typing-git-push-token-ghp_6r9r8wfnpahagxolxqkty67azrgtxx2mof0k",
+    "href": "update_website.html#push-to-github-use-the-button-instead-of-typing-git-push-token-ghp_6r9r8wfnpahagxolxqkty67azrgtxx2mof0k",
     "title": "Documentation for Setting Custom URL",
-    "section": "5. Push to GitHub",
-    "text": "5. Push to GitHub\ngit push"
+    "section": "5. Push to GitHub (use the button instead of typing git push, token = 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)",
+    "text": "5. Push to GitHub (use the button instead of typing git push, token = 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)\ngit push"
   },
   {
     "objectID": "update_website.html#check-the-live-site",
@@ -194,13 +194,6 @@
     "title": "Paul J. Ford, PhD",
     "section": "Connect",
     "text": "Connect\n\nEmail (work): fordp@ccf.org\nEmail (personal): neuroethics@sbcglobal.net\nLinkedIn\nResearchGate"
-  },
-  {
-    "objectID": "index.html#upcoming-neuroethics-sessions",
-    "href": "index.html#upcoming-neuroethics-sessions",
-    "title": "Paul J. Ford, PhD",
-    "section": "Upcoming Neuroethics Sessions",
-    "text": "Upcoming Neuroethics Sessions\n\n\n\n\n\n\nNoteUpcoming Neuroethics Session: Christine Grady, April 30, 2026. From Bedside to Bench to Beltway: Stories of Neuroethics."
   },
   {
     "objectID": "index.html#recent-highlights",

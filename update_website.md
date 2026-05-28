@@ -75,7 +75,7 @@ Example: git commit -m "Update index page content"
 
 ---
 
-## 5. Push to GitHub
+## 5. Push to GitHub (use the button instead of typing git push, token = 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)
 
 git push
 

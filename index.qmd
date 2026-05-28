@@ -22,14 +22,6 @@ He is an Associate Professor at Cleveland Clinic Lerner College of Medicine at C
 
 ------------------------------------------------------------------------
 
-## Upcoming Neuroethics Sessions
-
-:::{.callout-note title="Upcoming Neuroethics Session: Christine Grady, April 30, 2026. From Bedside to Bench to Beltway: Stories of Neuroethics."}
-
-![](images/grady-apr30.png)
-
-:::
-
 ## Recent Highlights
 
 ::: {.callout-note title="*Published Jan 2026* Complex Ethics Consultations, Volume 2, Co-edited by Dr. Paul J. Ford"}
